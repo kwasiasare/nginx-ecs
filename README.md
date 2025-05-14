@@ -113,4 +113,4 @@ aws cloudformation delete-stack --stack-name nginx-demo-service
 # Wait for deletion to complete, then delete infrastructure
 aws cloudformation delete-stack --stack-name nginx-demo-infra
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
